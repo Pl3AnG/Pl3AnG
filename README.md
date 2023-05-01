@@ -1,6 +1,6 @@
-### I'm gonna be a programmer.
+## I'm gonna be a programmer.
 
-## ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧
+### ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pl3AnG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
