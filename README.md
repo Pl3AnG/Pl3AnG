@@ -1,6 +1,7 @@
 ## I'm gonna be a programmer.
 
 ### ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧
+<img align="center" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif">
 
 <!--
 **Pl3AnG/Pl3AnG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
