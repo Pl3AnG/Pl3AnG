@@ -1,4 +1,4 @@
-## I'm gonna be a programmer.
+## I'm gonna be a …
 
 ### ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧
 <img align="center" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif">
